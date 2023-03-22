@@ -1,4 +1,4 @@
-# FuchsiaDarkness - Ripped <img src="https://furry.forsale/erigedHNo5.png?key=ConfJ5Fkbk0V3k" width="100" height="100">
+# FuchsiaDarkness - Ripped <img src="https://furry.forsale/erigedHNo5.png?key=ConfJ5Fkbk0V3k" style="{top: 15px; position: relative;}" width="50" height="50">
 
 A "Port" of a Discord theme to the [Ripped Guide](https://ripped.guide).  
 Inspired by https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha
