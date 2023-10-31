@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name [NEW] FuchsiaDarkness - Ripped v2
+@namespace https://github.com/kekkodance
+@version 2.0.0
+@description  A "Port" of a Discord theme to ripped.guide.
+Inspired by https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha
+@author       kekkodance
+@license      No License
+==/UserStyle== */
+
 @-moz-document url-prefix("https://ripped.guide/") {
 	@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;0,800;1,500;1,600;1,700;1,800&display=swap');
 
