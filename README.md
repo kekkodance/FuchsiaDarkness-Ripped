@@ -1,22 +1,19 @@
 # FuchsiaDarkness - Ripped <img src="https://furry.forsale/erigedHNo5.png?key=ConfJ5Fkbk0V3k" style="{top: 15px; position: relative;}" width="50" height="50">
 
-A "Port" of a Discord theme to the [Ripped Guide](https://ripped.guide).  
-Inspired by https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha
+A "Port" of a Discord Theme to the [Ripped Guide](https://ripped.guide).  
+UI Design by [**FuchsiaDarkness**](https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha).
 
-![Home](https://furry.forsale/aDxuRb6Way.png?key=eCEbCxI8hKJPek)
+![Home](https://userstyles.world/preview/12804/2.webp)
 
 ## Install
 
-1. Enable AMOLED Mode by clicking the Moon icon on the top right of the website.
+1. Enable **AMOLED Mode** by clicking the <img src="https://ripped.guide/pix/dark_mode.svg" width="22" height="22"> icon on the top right of the website.
 
-2. Inject the CSS yourself somehow.
+2. Use [Stylus](https://add0n.com/stylus.html) to inject it.  
 
- _or_
-
-2. Use [Stylus](https://add0n.com/stylus.html) to inject it.
 
 > **Warning** |
-> The UserStyle provided [here](https://userstyles.world/style/5024/fuchsiadarkness-ripped) is **outdated** and i cannot update it due to OAuth being disabled. Use the version on GitHub.
+> The UserStyle provided [here](https://userstyles.world/style/5024/fuchsiadarkness-ripped) is **outdated** and i cannot update it. Use the version available [here](https://userstyles.world/style/12804/new-fuchsiadarkness-v2-ripped).
 
 # More Previews
 
