@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name [NEW] FuchsiaDarkness - Ripped v2
 @namespace https://github.com/kekkodance
-@version 2.0.0
+@version 2.0.1
 @description  A "Port" of a Discord theme to ripped.guide.
 Inspired by https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha
 @author       kekkodance
@@ -23,21 +23,11 @@ Inspired by https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha
 		border-radius: 0px !important;
 	}
 
-	a.home-link {
+	a.home-link, p.navtitle, .credits a, h1.article-title, #content a, hr {
 		color: rgb(233, 30, 99) !important;
 	}
 
-	p.navtitle {
-		color: rgb(233, 30, 99) !important;
-		font-weight: bold;
-	}
-
-	.credits a {
-		color: rgb(233, 30, 99) !important;
-	}
-
-	h1.article-title {
-		color: rgb(233, 30, 99) !important;
+	p.navtitle, h1.article-title {
 		font-weight: bold !important;
 	}
 
@@ -48,15 +38,11 @@ Inspired by https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha
 		border-radius: 0px !important;
 	}
 
-	#content a {
-		color: rgb(233, 30, 99) !important;
-	}
-
 	tr:nth-child(even) {
 		background-color: #23040f !important;
 	}
 
-	hr {
-		color: rgb(233, 30, 99) !important;
-	}
+    #darkmodetoggle img, #ico-disc, #ico-gh img {
+        filter: invert(41%) sepia(82%) saturate(7388%) hue-rotate(327deg) brightness(93%) contrast(96%);
+    }
 }
