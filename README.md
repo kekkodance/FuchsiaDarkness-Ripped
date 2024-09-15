@@ -1,4 +1,4 @@
-# FuchsiaDarkness - Ripped <img src="https://furry.forsale/erigedHNo5.png?key=ConfJ5Fkbk0V3k" style="{top: 15px; position: relative;}" width="50" height="50">
+# FuchsiaDarkness - Ripped <img src="https://encrypting.host/erigedHNo5.png?key=ConfJ5Fkbk0V3k" style="{top: 15px; position: relative;}" width="50" height="50">
 
 A "Port" of a Discord Theme to the [Ripped Guide](https://ripped.guide).  
 UI Design by [**FuchsiaDarkness**](https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha).
@@ -19,4 +19,4 @@ UI Design by [**FuchsiaDarkness**](https://github.com/ToxxyTheTrash/FuchsiaDarkn
 
 Sidebar                                                              |  Contributors
 :-------------------------------------------------------------------:|:------------------------------------------------------------------------:
-![Sidebar](https://furry.forsale/Sw423Mp3rj.png?key=0sgzUHWVe1utcf)  |  ![Contributors](https://furry.forsale/tEYw7YHkTr.png?key=1hKJcuOh5I1NkV)
+![Sidebar](https://encrypting.host/Sw423Mp3rj.png?key=0sgzUHWVe1utcf)  |  ![Contributors](https://encrypting.host/tEYw7YHkTr.png?key=1hKJcuOh5I1NkV)
