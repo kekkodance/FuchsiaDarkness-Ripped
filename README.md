@@ -1,5 +1,11 @@
 # FuchsiaDarkness - Ripped <img src="https://encrypting.host/erigedHNo5.png?key=ConfJ5Fkbk0V3k" style="{top: 15px; position: relative;}" width="50" height="50">
 
+# ARCHIVED 
+## Due to ripped.guide's new framework, this theme has been made obsolete!
+
+---
+---
+
 A "Port" of a Discord Theme to the [Ripped Guide](https://ripped.guide).  
 UI Design by [**FuchsiaDarkness**](https://github.com/ToxxyTheTrash/FuchsiaDarknessAlpha).
 
